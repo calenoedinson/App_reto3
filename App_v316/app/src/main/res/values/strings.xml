@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">App_v3.16</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">App Festejos</string>
+    <string name="nav_header_subtitle">edinson.caleno.mt@correo.usa.edu.co</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="menu_home">Presentación</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <!-- Productos -->
+    <string name="nameP1">Gorros</string>
+    <string name="descriptionP1">20 unidades</string>
+    <string name="precioP1">$7000</string>
+
+    <string name="nameP2">Globos</string>
+    <string name="descriptionP2">40 unidades</string>
+    <string name="precioP2">$9000</string>
+
+    <string name="nameP3">Serpentinas</string>
+    <string name="descriptionP3">30 unidades</string>
+    <string name="precioP3">$5000</string>
+</resources>
